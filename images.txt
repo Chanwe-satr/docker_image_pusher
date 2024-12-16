@@ -6,3 +6,5 @@ nginx
 #--platform=linux/arm64 xiaoyaliu/alist
 redis:4.0-alpine
 postgres:10-alpine
+Python 3.7
+alpine3.9
