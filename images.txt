@@ -7,3 +7,5 @@ nginx
 redis:4.0-alpine
 postgres:10-alpine
 python:3.7-alpine3.9
+oj_rsync
+oj-rsync
